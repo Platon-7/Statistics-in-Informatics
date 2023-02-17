@@ -1,3 +1,5 @@
+# Statistics In Informatics
+
 This course is a 3rd year optional course.
 The course has 4 projects that require the knowledge of R and it focuses on the basis of Statistics.
 
